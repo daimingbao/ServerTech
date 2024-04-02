@@ -1,6 +1,5 @@
 # ServerTech
 ![服务端技术logo](https://raw.githubusercontent.com/daimingbao/server_tech_images/main/images/服务端技术.png)
-image token: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
 
 
 # 技术干货目录
@@ -14,6 +13,6 @@ image token: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
 
 ## 第三章 进阶技术
 这是第三章的内容。
-`服务端技术原理分享平台`
+
 
 
