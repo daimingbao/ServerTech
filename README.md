@@ -1,4 +1,4 @@
-# ServerTech
+# ServerTech<<服务端技术手册>>
 ![服务端技术logo](https://raw.githubusercontent.com/daimingbao/server_tech_images/main/images/服务端技术.png)
 
 
@@ -8,12 +8,16 @@
 ##  引言
 这是第一章的内容。
 
-##  Java基础知识
+##  Java语言基础知识
 这是第二章的内容。
 
 ### 集合
 
-##  Java进阶技术
+### 异常
+
+### 范型
+
+##  Java语言进阶技术
 这是第三章的内容。
 
 ### 多线程
